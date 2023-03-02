@@ -1,17 +1,23 @@
-### Hi there 👋
+# Welcome to Buchi's Home
 
-aaa
-<!--
-**buchi1002/buchi1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMRBuchi)](https://atcoder.jp/users/MRBuchi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MRB_uchi?style=social)](https://twitter.com/MRB_uchi)
 
-Here are some ideas to get you started:
+<!DOCUTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>テスト</title>
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+</head>
+<body>
+    <py-script>
+def test1(n):
+    print(n)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+for i in ['Papa', 'Mama', 'Baby']:
+    test1(i)
+    </py-script>
+</body>
+</html>
