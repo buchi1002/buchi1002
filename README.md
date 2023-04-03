@@ -11,12 +11,12 @@ I'm interested in matroid theory, coding theory, and combinatrial optimization.
 
 ## $\text{Contents}$
 
-- Symplectic Matroids
+- Symplectic Matroids.
 
-- Solutions for AtCoder problems
+- Solutions for AtCoder problems.
 
 ## $\overline{\text{Contents}}$
 
-- How to Spend a Good Life
+- How to Spend a Good Life.
 
-- How to Make up with Your Partner
+- How to Make up with Your Partner.
