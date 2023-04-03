@@ -19,4 +19,4 @@ I'm interested in matroid theory, coding theory, and combinatrial optimization.
 
 - How to Spend a Good Life
 
-- How to make up with your partner
+- How to Make up with Your Partner
