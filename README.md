@@ -15,7 +15,7 @@ Sometimes, I'm joining programming competition AtCoder.
 
 - Symplectic matroids.
 
-- $q$-analogue of combinatorial pregeometry (a.k.a. $q$-matroids).
+- $q$-analogue of combinatorial pregeometry ( a.k.a. $q$-matroids ).
 
 - Solutions for AtCoder problems.
 
