@@ -9,7 +9,9 @@ Sometimes, I'm joining programming competition AtCoder.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buchi1002&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-## $\text{Contents}$
+Let $E$ be the collection of topics in my github.
+
+## Some topics in $E$
 
 - Symplectic Matroids.
 
@@ -17,8 +19,8 @@ Sometimes, I'm joining programming competition AtCoder.
 
 - Solutions for AtCoder Problems.
 
-## $\text{Contents}^c$
+## Some topics in $\overline{E}^c$
 
-- How to Spend a Good Life.
+- The secret to sleeping deeply and waking up refreshed.
 
 - How to Make up with Your Partner.
