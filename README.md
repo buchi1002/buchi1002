@@ -11,7 +11,7 @@ Sometimes, I'm joining programming competition AtCoder.
 
 Let $E$ be the all information in the world and a subset $S$ of $E$ be the collection of topics in my github.
 
-## Some topics in $E$
+## Some topics in $S$
 
 - Symplectic Matroids.
 
