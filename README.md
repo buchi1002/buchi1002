@@ -13,15 +13,15 @@ Sometimes, I'm joining programming competition AtCoder.
 
 ## Topics
 
-- Symplectic Matroids.
+- Symplectic matroids.
 
 - $q$-analogue of combinatorial pregeometry (a.k.a. $q$-matroids.)
 
-- Solutions for AtCoder Problems.
+- Solutions for AtCoder problems.
 
 ## Open problems
 
 - The secret to sleeping deeply and waking up refreshed.
 
-- How to Make up with Your Partner.
+- How to make up with your partner.
   - **Conjecture** : There exists an isomorphism from her heart to the autumn weather.
