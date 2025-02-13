@@ -9,7 +9,7 @@ Sometimes, I'm joining programming competition AtCoder.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buchi1002&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-Let $E$ be the collection of topics in my github.
+Let $E$ be the all information in the world and a subset $S$ of $E$ be the collection of topics in my github.
 
 ## Some topics in $E$
 
@@ -19,7 +19,7 @@ Let $E$ be the collection of topics in my github.
 
 - Solutions for AtCoder Problems.
 
-## Some topics in $\overline{E}^c$
+## Some topics in $E \setminus S$
 
 - The secret to sleeping deeply and waking up refreshed.
 
