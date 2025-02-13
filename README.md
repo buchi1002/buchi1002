@@ -17,7 +17,7 @@ Sometimes, I'm joining programming competition AtCoder.
 
 - Solutions for AtCoder Problems.
 
-## $\overline{\text{Contents}}$
+## $\text{Contents}^c$
 
 - How to Spend a Good Life.
 
