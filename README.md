@@ -18,10 +18,3 @@ Sometimes, I'm joining programming competition AtCoder.
 - $q$-analogue of combinatorial pregeometry ( a.k.a. $q$-matroids ).
 
 - Solutions for AtCoder problems.
-
-## Open problems
-
-- The secret to sleeping deeply and waking up refreshed.
-
-- How to make up with your partner.
-  - **Conjecture** : There exists an isomorphism from her heart to the autumn weather.
